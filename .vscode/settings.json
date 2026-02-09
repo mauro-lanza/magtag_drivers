@@ -1,0 +1,19 @@
+{
+    "git.detectSubmodules": false,
+    "cmake.configureOnOpen": false,
+    "cmake.autoSelectActiveFolder": false,
+    "python.defaultInterpreterPath": "${workspaceFolder}/venv/bin/python",
+    "python.analysis.extraPaths": [
+        "${workspaceFolder}/custom_libraries/lib_v2",
+        "${workspaceFolder}/magtag_python_libraries/libraries_adafruit-circuitpython-bundle-10.x-mpy-20251214/lib",
+        "${workspaceFolder}/magtag_python_libraries/libraries_circuitpython-community-bundle-10.x-mpy-20251204/lib",
+    ],
+    "python.analysis.typeCheckingMode": "basic",
+    "python.analysis.diagnosticSeverityOverrides": {
+        "reportMissingModuleSource": "none",
+        "reportMissingImports": "none"
+    },
+    "ruff.exclude": [
+        "libraries/**",
+    ]
+}

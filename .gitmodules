@@ -1,0 +1,60 @@
+[submodule "libraries/Adafruit_CircuitPython_AdafruitIO"]
+	path = libraries/Adafruit_CircuitPython_AdafruitIO
+	url = https://github.com/adafruit/Adafruit_CircuitPython_AdafruitIO.git
+[submodule "libraries/Adafruit_CircuitPython_Bitmap_Font"]
+	path = libraries/Adafruit_CircuitPython_Bitmap_Font
+	url = https://github.com/adafruit/Adafruit_CircuitPython_Bitmap_Font.git
+[submodule "libraries/Adafruit_CircuitPython_DisplayIO_Layout"]
+	path = libraries/Adafruit_CircuitPython_DisplayIO_Layout
+	url = https://github.com/adafruit/Adafruit_CircuitPython_DisplayIO_Layout.git
+[submodule "libraries/Adafruit_CircuitPython_Display_Shapes"]
+	path = libraries/Adafruit_CircuitPython_Display_Shapes
+	url = https://github.com/adafruit/Adafruit_CircuitPython_Display_Shapes.git
+[submodule "libraries/Adafruit_CircuitPython_Display_Text"]
+	path = libraries/Adafruit_CircuitPython_Display_Text
+	url = https://github.com/adafruit/Adafruit_CircuitPython_Display_Text.git
+[submodule "libraries/Adafruit_CircuitPython_EPD"]
+	path = libraries/Adafruit_CircuitPython_EPD
+	url = https://github.com/adafruit/Adafruit_CircuitPython_EPD.git
+[submodule "libraries/Adafruit_CircuitPython_Logging"]
+	path = libraries/Adafruit_CircuitPython_Logging
+	url = https://github.com/adafruit/Adafruit_CircuitPython_Logging.git
+[submodule "libraries/Adafruit_CircuitPython_MagTag"]
+	path = libraries/Adafruit_CircuitPython_MagTag
+	url = https://github.com/adafruit/Adafruit_CircuitPython_MagTag.git
+[submodule "libraries/Adafruit_CircuitPython_SD"]
+	path = libraries/Adafruit_CircuitPython_SD
+	url = https://github.com/adafruit/Adafruit_CircuitPython_SD.git
+[submodule "libraries/Adafruit_CircuitPython_SSD1680"]
+	path = libraries/Adafruit_CircuitPython_SSD1680
+	url = https://github.com/adafruit/Adafruit_CircuitPython_SSD1680.git
+[submodule "libraries/Adafruit_CircuitPython_SimpleIO"]
+	path = libraries/Adafruit_CircuitPython_SimpleIO
+	url = https://github.com/adafruit/Adafruit_CircuitPython_SimpleIO.git
+[submodule "libraries/Adafruit_CircuitPython_Ticks"]
+	path = libraries/Adafruit_CircuitPython_Ticks
+	url = https://github.com/adafruit/Adafruit_CircuitPython_Ticks.git
+[submodule "libraries/Adafruit_CircuitPython_asyncio"]
+	path = libraries/Adafruit_CircuitPython_asyncio
+	url = https://github.com/adafruit/Adafruit_CircuitPython_asyncio.git
+[submodule "libraries/Adafruit_CircuitPython_framebuf"]
+	path = libraries/Adafruit_CircuitPython_framebuf
+	url = https://github.com/adafruit/Adafruit_CircuitPython_framebuf.git
+[submodule "libraries/GxEPD2"]
+	path = libraries/GxEPD2
+	url = https://github.com/ZinggJM/GxEPD2.git
+[submodule "libraries/u8g2"]
+	path = libraries/u8g2
+	url = https://github.com/olikraus/u8g2.git
+[submodule "libraries/crosspoint-reader"]
+	path = libraries/crosspoint-reader
+	url = https://github.com/daveallie/crosspoint-reader.git
+[submodule "libraries/microreader"]
+	path = libraries/microreader
+	url = https://github.com/CidVonHighwind/microreader.git
+[submodule "libraries/macroreader"]
+	path = libraries/macroreader
+	url = https://github.com/juicecultus/macroreader.git
+[submodule "libraries/mastering-epaper-displays"]
+	path = libraries/mastering-epaper-displays
+	url = https://github.com/profetolocka/mastering-epaper-displays
