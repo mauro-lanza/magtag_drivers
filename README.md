@@ -275,8 +275,8 @@ tio /dev/cu.usbmodem* --script-file scripts/run_benchmarks.lua \
 
 Based on analysis of:
 - [GxEPD2](https://github.com/ZinggJM/GxEPD2) by Jean-Marc Zingg — rotation, buffer layout, power patterns
-- [Good Display](https://www.good-display.com/product/389.html) — Arduino GDEY029T94 driver, sample LUTs
-- [Adafruit SSD1680](https://github.com/adafruit/Adafruit_CircuitPython_SSD1680) — CircuitPython reference
+- [Good Display](https://www.good-display.com/product/389.html) — Arduino GDEY029T94 driver
+- [Adafruit SSD1680](https://github.com/adafruit/Adafruit_CircuitPython_SSD1680) — CircuitPython reference, sample LUTs
 - [adafruit_framebuf](https://github.com/adafruit/Adafruit_CircuitPython_framebuf) — font format, buffer patterns
 - [u8g2](https://github.com/olikraus/u8g2) — direct buffer manipulation techniques
 - SSD1680 datasheet
